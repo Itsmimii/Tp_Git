@@ -2,3 +2,4 @@ Version initiale de l'application.
 Ajout de la fonctionnalité 1.
 ajout fonct 3 
 Ligne modifiée par A.
+Ligne modifiée par B.
